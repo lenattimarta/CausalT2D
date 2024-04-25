@@ -1,2 +1,7 @@
 # CausalT2D
-## Causal Discovery and Causal Inference from primary care Electronic Health Records with focus on T2D prevention through lifestyle-modification interventions
+## Overview
+This repository contains codes related:
+ <li> Causal Discovery from primary care Electronic Health Records </li> 
+ <li> Causal Inference with focus on T2D prevention through lifestyle-modification interventions </li>
+
+## Reference
